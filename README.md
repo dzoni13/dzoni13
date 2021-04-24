@@ -17,16 +17,14 @@ I can help with the following:
 3) Next.js
 4) React
 5) MySQL
-6) Website developing
+6) jQuery
 7) JavaScript
 8) MongoDB
-9) Creating responsive sites
-10) E-commerce developing
+9) Website developing
+10) Creating responsive sites 
 11) Graphic design
 12) UI - UX
 13) SEO
-14) jQuery
-
 
 If you have any questions, feel free to let me know. 
 I like working with people to bring their ideas to life.
