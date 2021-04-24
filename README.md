@@ -1,6 +1,7 @@
 👋 Hi, welcome to my profile, feel free to check out some of my personal work.
 
-If you follow this link, it will lead you to an app that I have designed and develop from scratch. https://coffee-restaurant-website.herokuapp.com/
+If you follow this link, it will lead you to an app that I have designed and develop from scratch:
+https://coffee-restaurant-website.herokuapp.com/
 If you are interested in a celebration of some kind, I can provide you with a username and password to log in like Admin,
 there are some cool functionalities that this kind of site usually doesn't have. 
 
