@@ -3,7 +3,7 @@
 If you follow this link:"https://coffee-restaurant-website.herokuapp.com/", it will lead you to an web application that I have designed and develop from scratch.
 
 If you are interested in a celebration of some kind, I can provide you with a username and password to log in like Admin,
-there are some cool functionalities that this kind of website's usually doesn't have. 
+there are some cool functionalities that this kind of website's usually don't have. 
 
 I’ve been developing Web e-commerce applications and designing UI for over 2 years now. Once a project is in my hands, I cut no corners. 
 
