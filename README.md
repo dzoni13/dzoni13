@@ -1,9 +1,9 @@
 👋 Hi, welcome to my profile, feel free to check out some of my personal work.
 
-If you follow this link, it will lead you to an app that I have designed and develop from scratch.
-Link: https://coffee-restaurant-website.herokuapp.com/
+If you follow this link:"https://coffee-restaurant-website.herokuapp.com/", it will lead you to an web application that I have designed and develop from scratch.
+
 If you are interested in a celebration of some kind, I can provide you with a username and password to log in like Admin,
-there are some cool functionalities that this kind of site usually doesn't have. 
+there are some cool functionalities that this kind of website's usually doesn't have. 
 
 I’ve been developing Web e-commerce applications and designing UI for over 2 years now. Once a project is in my hands, I cut no corners. 
 
@@ -23,7 +23,7 @@ I can help with the following:
 9) Creating responsive sites
 10) E-commerce developing
 11) Graphic design
-12 UI - UX
+12) UI - UX
 13) SEO
 14) jQuery
 
