@@ -7,7 +7,7 @@ there are some cool functionalities that this kind of website's usually don't ha
 
 I’ve been developing Web e-commerce applications and designing UI for over 2 years now. Once a project is in my hands, I cut no corners. 
 
-Over the past 2 years, I have worked on developing a range of different websites using primarily HTML5/CSS3, SQL, React, Next.js and Javascript. 
+Over the past 3-4 years, I have worked on developing a range of different websites using primarily HTML5/CSS3, SQL, React, Next.js and Javascript. 
 My past work includes websites for startup companies, small businesses, and individuals. I truly enjoy developing, coding, and maintaining clean, professional,
 and easy-to-navigate websites.
 
