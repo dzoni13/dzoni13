@@ -1,7 +1,5 @@
 👋 Hi, welcome to my profile, feel free to check out some of my personal work.
 
-If you follow this link:"https://coffee-restaurant-website.herokuapp.com/", it will lead you to an web application that I have designed and develop from scratch.
-
 If you are interested in a celebration of some kind, I can provide you with a username and password to log in like Admin,
 there are some cool functionalities that this kind of website's usually don't have. 
 
